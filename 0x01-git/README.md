@@ -1,2 +1,1 @@
-my own file
-:qw
+My file
