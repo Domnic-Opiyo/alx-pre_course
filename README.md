@@ -1,1 +1,1 @@
-I am alive
+Im cool
